@@ -15,7 +15,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-balbino-67a5b0266/)
 
 
-![NichGit](https://github-readme-stats.vercel.app/api?username=NicDeveloper7&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default_icons=true)
+
 
 
 ## 🔌-Habilidades e Linguagens:
@@ -30,6 +31,8 @@
 ![k](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![k](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![k](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![k](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicDeveloper7&layout=compact&langs_count=6&theme=tokyonight"/>
 
 <br>
 Cada dia mais buscando conhecimento
