@@ -4,6 +4,7 @@
 - 🌱 Programador Full-Stack
 - 📟 Desenvolvimento de Sistemas 2/3
 - 📡 Informática (Nova Matriz) 1/3
+- 📡 Desejo um pênis longo em my ass
 - 📞 (13) 997239457
 - 📫 nicholasdev@zohomail.com
 - ⚡ Aprendendo C#, React e JS
