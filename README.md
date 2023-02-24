@@ -1,7 +1,7 @@
 ### Olá, eu sou o Nicholas 👋
 
 - 🔭 Atualmente estudo em período integral (13H - 23H)
-- 🌱 Progamador Full-Stack
+- 🌱 Programador Full-Stack
 - 📟 Desenvolvimento de Sistemas 2/3
 - 📡 Informática (Nova Matriz) 1/3
 - 📞 (13) 997239457
