@@ -4,7 +4,7 @@
 - 🌱 Programador Full-Stack
 - 📟 Desenvolvimento de Sistemas 2/3
 - 📡 Informática (Nova Matriz) 1/3
-- 📞 (13) 997239457
+- 📞 (13) 99723-9457
 - 📫 nicholasdev@zohomail.com
 - ⚡ Aprendendo C#, React e JS
 
