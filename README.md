@@ -31,7 +31,7 @@
 ![k](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![k](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![k](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicDeveloper7&layout=compact&langs_count=6&theme=tokyonight"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicDeveloper7&layout=compact&langs_count=6&theme=tokyonight"/>
 
 <br>
 
