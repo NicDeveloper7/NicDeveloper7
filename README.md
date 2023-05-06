@@ -9,7 +9,7 @@
 - 📫 nicholasdev@zohomail.com
 - ⚡ Aprendendo C#, React e JS
 
-[![](./microsoft-certified-azure-fundamentals.png)]
+https://wellingtonagapto.com.br/wp-content/uploads/2022/06/Curso-para-a-certificacao-AZ-900-Microsoft-Azure-Fundamentals.png
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-balbino-67a5b0266/)
 
