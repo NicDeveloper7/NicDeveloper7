@@ -9,10 +9,6 @@
 - 📫 nicholasdev@zohomail.com
 - ⚡ Aprendendo C#, React e JS
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fa1f54af-bc8d-44a8-b8b8-631a389695b0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-balbino-67a5b0266/)
 
 
