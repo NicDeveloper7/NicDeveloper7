@@ -9,7 +9,7 @@
 - 📫 nicholasdev@zohomail.com
 - ⚡ Aprendendo C#, React e JS
 
-https://www.credly.com/badges/fa1f54af-bc8d-44a8-b8b8-631a389695b0/public_url
+[![](./microsoft-certified-azure-fundamentals.png)]
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-balbino-67a5b0266/)
 
