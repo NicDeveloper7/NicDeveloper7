@@ -1,7 +1,6 @@
 ### Olá, eu sou o Nicholas 👋
 [![Github](https://img.shields.io/github/followers/NicDeveloper7?label=Follow&style=social)](https://github.com/NicDeveloper7)
 
-- 🔭 Atualmente estudo em período integral (13H - 23H)
 - 🌱 Programador Full-Stack
 - 📟 Desenvolvimento de Sistemas 2/3
 - 📡 Informática (Nova Matriz) 1/3
