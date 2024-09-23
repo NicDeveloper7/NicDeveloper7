@@ -6,7 +6,7 @@
 - 📡 Técnico em Informática (Nova Matriz) Etec Adolpho Berezin
 - 📫 nicholasdev@zohomail.com
 - ⚡ Desenvolvedor Web - Vox soluções em TI
-- 
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-balbino-67a5b0266/)
 
