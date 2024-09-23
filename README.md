@@ -2,10 +2,11 @@
 [![Github](https://img.shields.io/github/followers/NicDeveloper7?label=Follow&style=social)](https://github.com/NicDeveloper7)
 
 - 🌱 Programador Full-Stack
-- 📟 Desenvolvimento de Sistemas 2/3
-- 📡 Informática (Nova Matriz) 2/3
+- 📟 Desenvolvimento de Sistemas 3/3
+- 📡 Técnico em Informática (Nova Matriz) Etec Adolpho Berezin
 - 📫 nicholasdev@zohomail.com
-- ⚡ Aprendendo C#, React e JS
+- ⚡ Desenvolvedor Web - Vox soluções em TI
+- 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-balbino-67a5b0266/)
 
