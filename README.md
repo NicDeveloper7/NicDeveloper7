@@ -1,7 +1,7 @@
 ### Olá, eu sou o Nicholas 👋
 [![Github](https://img.shields.io/github/followers/NicDeveloper7?label=Follow&style=social)](https://github.com/NicDeveloper7)
 
-- 🌱 Programador Full-Stack
+- 🌱 Desenvolvedor Full-Stack - Vox Soluções em TI
 - 📟 Desenvolvimento de Sistemas 3/3
 - 📡 Técnico em Informática (Nova Matriz) Etec Adolpho Berezin
 - 📫 nicholasdev@zohomail.com
